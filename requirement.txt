@@ -2,4 +2,4 @@ this porject written in ubuntu by c++11 and compiled with gcc 4.9.3
 using (curl) external library 
 
 
-فایل stop-word-list.txt باید در پوشه ی اصلی پروژه و یا در پوشه ی build یا کپی شود.
+file e stop-words-list dar posheye asliye proje va ya posheye build copy shavad.
